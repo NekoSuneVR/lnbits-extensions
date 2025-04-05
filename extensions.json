@@ -5,7 +5,8 @@
         "gerty",
         "lncalendar",
         "lnurlp",
-        "withdraw"
+        "withdraw",
+        "usermanager"
     ],
     "extensions": [
         {
