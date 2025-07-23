@@ -325,6 +325,45 @@
             "hash": "db2bb353cdb7aa0c3b9d7c443cf50c9a91f0608c897491a5b1f7e2e2371bff7a"
         },
         {
+            "id": "usermanager",
+            "repo": "https://github.com/lnbits/usermanager",
+            "name": "User Manager",
+            "version": "1.0-rc4",
+            "min_lnbits_version": "0.11.0",
+            "max_lnbits_version": "1.0.0rc9",
+            "short_description": "Generate users and wallets",
+            "icon": "https://raw.githubusercontent.com/lnbits/usermanager/main/static/image/usermanager.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/usermanager/main/config.json",
+            "archive": "https://github.com/lnbits/usermanager/archive/refs/tags/v1.0-rc4.zip",
+            "hash": "4ffc73fc795662c6f1755fee40d2f0c250352ff901d3d0b69e2a50a32ced05aa"
+        },
+        {
+            "id": "usermanager",
+            "repo": "https://github.com/lnbits/usermanager",
+            "name": "User Manager",
+            "version": "1.0-rc3",
+            "min_lnbits_version": "0.11.0",
+            "max_lnbits_version": "1.0.0rc9",
+            "short_description": "Generate users and wallets",
+            "icon": "https://raw.githubusercontent.com/lnbits/usermanager/main/static/image/usermanager.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/usermanager/main/config.json",
+            "archive": "https://github.com/lnbits/usermanager/archive/refs/tags/v1.0-rc3.zip",
+            "hash": "ae388a4676f97deb1bad0023426913c6d486de5b29ad80de5e4d43f4850cc6cf"
+        },
+        {
+            "id": "usermanager",
+            "repo": "https://github.com/lnbits/usermanager",
+            "name": "User Manager",
+            "version": "1.0.0",
+            "min_lnbits_version": "0.11.0",
+            "max_lnbits_version": "1.2.1",
+            "short_description": "Generate users and wallets",
+            "icon": "https://raw.githubusercontent.com/lnbits/usermanager/main/static/image/usermanager.png",
+            "details_link": "https://raw.githubusercontent.com/lnbits/usermanager/main/config.json",
+            "archive": "https://github.com/lnbits/usermanager/archive/refs/tags/v1.0.0.zip",
+            "hash": "e3eedd338ce7e5c324a2432296a8b5f63ba4ec658be85872f43a18a0a4387f24"
+        },
+        {
             "id": "example",
             "repo": "https://github.com/lnbits/example",
             "name": "Build your own!",
